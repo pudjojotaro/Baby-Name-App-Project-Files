@@ -66,7 +66,7 @@ def get_name_popularity():
 ### Main -- runs when the app starts
 
 # Load babynames.csv into a pandas dataframe using the path './data/babynames.csv'
-# Keep only the columns 'sex', 'year', 'name' and 'count
+# Name the columns 'sex', 'year', 'name' and 'count
 # Name this dataframe "babynames"
 
 
